@@ -1,0 +1,7 @@
+{
+  "name": "mercagrisaApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
